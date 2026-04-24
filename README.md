@@ -5,9 +5,9 @@
 
 # Steps For This
 
- -Load stock data from CSV(Kaggle).
- -Then Clean and preprocess data.
- -Then Calculate moving average.
+ - Load stock data from CSV(Kaggle).
+ - Then Clean and preprocess data.
+ - Then Calculate moving average.
  - Then Generate BUY/SELL signal.
  - Store data in MySQL database
 
@@ -20,6 +20,6 @@
 
 # Improvements to be Made
 
- -Automate daily updates.
+ - Automate daily updates.
  - Use Polars for better and faster performance(compare to panda).
  - Use powerBI to make Dashboards.
