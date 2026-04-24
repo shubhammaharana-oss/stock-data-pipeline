@@ -4,7 +4,6 @@
 --Basiscly this project builds an end-to-end data pipeline for stock market data using Python and MySQL.
 
 # Steps For This
-
  - Load stock data from CSV(Kaggle).
  - Then Clean and preprocess data.
  - Then Calculate moving average.
